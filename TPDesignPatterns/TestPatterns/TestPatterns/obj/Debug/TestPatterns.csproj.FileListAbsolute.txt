@@ -1,0 +1,66 @@
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClient.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.CoreCompileInputs.cache
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClients.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmProduit.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmVente.resources
+D:\Visual Studio 2015\PROJET PATTERNS\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmDetailVente.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClients.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmDetailVente.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmProduit.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmVente.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+C:\Users\NATHAN\Documents\Visual Studio 2015\Projects\TP OK\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClients.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmDetailVente.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmProduit.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmVente.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+D:\Visual Studio 2015\TP_Design_Pattern\TP_Design_Pattern\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClients.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmDetailVente.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmProduit.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmVente.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+D:\Visual Studio 2015\TPDesignPatterns\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
